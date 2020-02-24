@@ -1,0 +1,7 @@
+{
+  "listenPorts": [ 80, 433, 8080, 10933, 5341],
+  "pingList": {
+    "google.com": [ 80, 433 ],
+    "myCustomService.com": [ 8090, 8095, 8096, 484, 447, 486 ]
+  } 
+}
